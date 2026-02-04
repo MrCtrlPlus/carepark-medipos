@@ -1,1 +1,26 @@
-node_modules
+# Laravel
+/vendor/
+/node_modules/
+/public/storage/
+/.env
+
+# Laravel Mix
+/public/hot
+/public/js/app.js
+/public/js/app.js.map
+/public/css/app.css
+/public/css/app.css.map
+
+# IDE Files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Sensitive Data
+.env.*.backup
+*.log
